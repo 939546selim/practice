@@ -1,3 +1,3 @@
 # practice
 makeing practice git
-author sk selim
+author sk selim (nalpur)
